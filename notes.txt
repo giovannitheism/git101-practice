@@ -1,0 +1,5 @@
+Lesson 1
+
+Git saves snapshots.
+
+GitHub stores repositories online.
