@@ -1,5 +1,2 @@
-Lesson 1
-
-Git saves snapshots.
-
-GitHub stores repositories online.
+a branch is a saved copy of  main repository where you can ezpirmenet without affecting what you value
+this can be used to see versions and to update what you are working on without jeapordizing
